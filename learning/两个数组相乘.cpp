@@ -1,6 +1,4 @@
-//
-// Created by 侯轶瑄 on 2021/11/15.
-//
+// 本程序的特点在于可以使用无返回值的函数改变主函数中的数组内容
 #include <iostream>
 
 using namespace std;
