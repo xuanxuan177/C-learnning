@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CommenFunction.h
+
+/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/main.cpp
+iostream
+-
+CommenFunction.h
+/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/CommenFunction.h
+

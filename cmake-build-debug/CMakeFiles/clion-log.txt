@@ -1,0 +1,4 @@
+"/Users/houyixuan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug
