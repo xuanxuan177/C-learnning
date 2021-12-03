@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/经典示例/001.第一个C程序/1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/经典示例/003.求整数之积/3.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/经典示例/004.比较实数大小/4.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/经典示例/006.显示变量所占字节数/6.C" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/经典示例/009.乘法口诀表/9.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/经典示例/013.用二维数组实现矩阵转置/13.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/经典示例/023.指向数组的指针/23.c" charset="GBK" />
+  </component>
+</project>

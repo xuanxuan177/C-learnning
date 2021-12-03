@@ -1,14 +1,11 @@
 #include <iostream>
-#include "CommenFunction.h"
-
+#include "class1.h"
 using namespace std;
 
 
-
 int main() {
-    double arr[3]={100.0,120};
-    int length;
-    length = getArrayLen(arr);
-    cout << length <<endl;
+
+    ONE myclass;
+    myclass.one();
     return 0;
 }

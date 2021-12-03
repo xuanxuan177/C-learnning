@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-../include/CommenFunction.h
+/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class1.cpp
+class1.h
+/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class1.h
 
-/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/main.cpp
+/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class1.h
 iostream
 -
-CommenFunction.h
-/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/CommenFunction.h
 

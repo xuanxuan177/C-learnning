@@ -129,29 +129,29 @@ C_learnning/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/build
 .PHONY : C_learnning/fast
 
-include/CommenFunction.o: include/CommenFunction.cpp.o
-.PHONY : include/CommenFunction.o
+include/class1.o: include/class1.cpp.o
+.PHONY : include/class1.o
 
 # target to build an object file
-include/CommenFunction.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.o
-.PHONY : include/CommenFunction.cpp.o
+include/class1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/class1.cpp.o
+.PHONY : include/class1.cpp.o
 
-include/CommenFunction.i: include/CommenFunction.cpp.i
-.PHONY : include/CommenFunction.i
+include/class1.i: include/class1.cpp.i
+.PHONY : include/class1.i
 
 # target to preprocess a source file
-include/CommenFunction.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.i
-.PHONY : include/CommenFunction.cpp.i
+include/class1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/class1.cpp.i
+.PHONY : include/class1.cpp.i
 
-include/CommenFunction.s: include/CommenFunction.cpp.s
-.PHONY : include/CommenFunction.s
+include/class1.s: include/class1.cpp.s
+.PHONY : include/class1.s
 
 # target to generate assembly for a file
-include/CommenFunction.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.s
-.PHONY : include/CommenFunction.cpp.s
+include/class1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/class1.cpp.s
+.PHONY : include/class1.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -186,9 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C_learnning"
-	@echo "... include/CommenFunction.o"
-	@echo "... include/CommenFunction.i"
-	@echo "... include/CommenFunction.s"
+	@echo "... include/class1.o"
+	@echo "... include/class1.i"
+	@echo "... include/class1.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
