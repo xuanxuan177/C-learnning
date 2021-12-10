@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/a.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/t1.txt" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/经典示例/001.第一个C程序/1.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/经典示例/003.求整数之积/3.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/经典示例/004.比较实数大小/4.c" charset="GBK" />

@@ -82,10 +82,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.cpp">
+			<Option target="C_learnning"/>
+		</Unit>
+		<Unit filename="/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.h">
+			<Option target="C_learnning"/>
+		</Unit>
 		<Unit filename="/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class1.cpp">
 			<Option target="C_learnning"/>
 		</Unit>
 		<Unit filename="/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class1.h">
+			<Option target="C_learnning"/>
+		</Unit>
+		<Unit filename="/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class2.cpp">
+			<Option target="C_learnning"/>
+		</Unit>
+		<Unit filename="/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class2.h">
 			<Option target="C_learnning"/>
 		</Unit>
 		<Unit filename="/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/main.cpp">

@@ -129,6 +129,30 @@ C_learnning/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/build
 .PHONY : C_learnning/fast
 
+include/FX_class.o: include/FX_class.cpp.o
+.PHONY : include/FX_class.o
+
+# target to build an object file
+include/FX_class.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/FX_class.cpp.o
+.PHONY : include/FX_class.cpp.o
+
+include/FX_class.i: include/FX_class.cpp.i
+.PHONY : include/FX_class.i
+
+# target to preprocess a source file
+include/FX_class.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/FX_class.cpp.i
+.PHONY : include/FX_class.cpp.i
+
+include/FX_class.s: include/FX_class.cpp.s
+.PHONY : include/FX_class.s
+
+# target to generate assembly for a file
+include/FX_class.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/FX_class.cpp.s
+.PHONY : include/FX_class.cpp.s
+
 include/class1.o: include/class1.cpp.o
 .PHONY : include/class1.o
 
@@ -152,6 +176,30 @@ include/class1.s: include/class1.cpp.s
 include/class1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/class1.cpp.s
 .PHONY : include/class1.cpp.s
+
+include/class2.o: include/class2.cpp.o
+.PHONY : include/class2.o
+
+# target to build an object file
+include/class2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/class2.cpp.o
+.PHONY : include/class2.cpp.o
+
+include/class2.i: include/class2.cpp.i
+.PHONY : include/class2.i
+
+# target to preprocess a source file
+include/class2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/class2.cpp.i
+.PHONY : include/class2.cpp.i
+
+include/class2.s: include/class2.cpp.s
+.PHONY : include/class2.s
+
+# target to generate assembly for a file
+include/class2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_learnning.dir/build.make CMakeFiles/C_learnning.dir/include/class2.cpp.s
+.PHONY : include/class2.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -186,9 +234,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C_learnning"
+	@echo "... include/FX_class.o"
+	@echo "... include/FX_class.i"
+	@echo "... include/FX_class.s"
 	@echo "... include/class1.o"
 	@echo "... include/class1.i"
 	@echo "... include/class1.s"
+	@echo "... include/class2.o"
+	@echo "... include/class2.i"
+	@echo "... include/class2.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
