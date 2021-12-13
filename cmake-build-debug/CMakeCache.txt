@@ -233,6 +233,9 @@ C_learnning_SOURCE_DIR:STATIC=/Users/houyixuan/Documents/200-编程/132.6代码/
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=/usr/sbin/sysctl
 
+//The directory containing a CMake configuration file for libmodbus.
+libmodbus_DIR:PATH=libmodbus_DIR-NOTFOUND
+
 
 ########################
 # INTERNAL cache entries

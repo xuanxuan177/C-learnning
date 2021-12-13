@@ -79,9 +79,35 @@ CMakeFiles/C_learnning.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_learnning.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/main.cpp -o CMakeFiles/C_learnning.dir/main.cpp.s
 
+CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.o: CMakeFiles/C_learnning.dir/flags.make
+CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.o: ../include/CommenFunction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.o -c /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/CommenFunction.cpp
+
+CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/CommenFunction.cpp > CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.i
+
+CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/CommenFunction.cpp -o CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.s
+
+CMakeFiles/C_learnning.dir/include/FX_class.cpp.o: CMakeFiles/C_learnning.dir/flags.make
+CMakeFiles/C_learnning.dir/include/FX_class.cpp.o: ../include/FX_class.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C_learnning.dir/include/FX_class.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_learnning.dir/include/FX_class.cpp.o -c /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.cpp
+
+CMakeFiles/C_learnning.dir/include/FX_class.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_learnning.dir/include/FX_class.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.cpp > CMakeFiles/C_learnning.dir/include/FX_class.cpp.i
+
+CMakeFiles/C_learnning.dir/include/FX_class.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_learnning.dir/include/FX_class.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.cpp -o CMakeFiles/C_learnning.dir/include/FX_class.cpp.s
+
 CMakeFiles/C_learnning.dir/include/class1.cpp.o: CMakeFiles/C_learnning.dir/flags.make
 CMakeFiles/C_learnning.dir/include/class1.cpp.o: ../include/class1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C_learnning.dir/include/class1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C_learnning.dir/include/class1.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_learnning.dir/include/class1.cpp.o -c /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class1.cpp
 
 CMakeFiles/C_learnning.dir/include/class1.cpp.i: cmake_force
@@ -94,7 +120,7 @@ CMakeFiles/C_learnning.dir/include/class1.cpp.s: cmake_force
 
 CMakeFiles/C_learnning.dir/include/class2.cpp.o: CMakeFiles/C_learnning.dir/flags.make
 CMakeFiles/C_learnning.dir/include/class2.cpp.o: ../include/class2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C_learnning.dir/include/class2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/C_learnning.dir/include/class2.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_learnning.dir/include/class2.cpp.o -c /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class2.cpp
 
 CMakeFiles/C_learnning.dir/include/class2.cpp.i: cmake_force
@@ -105,36 +131,25 @@ CMakeFiles/C_learnning.dir/include/class2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_learnning.dir/include/class2.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/class2.cpp -o CMakeFiles/C_learnning.dir/include/class2.cpp.s
 
-CMakeFiles/C_learnning.dir/include/FX_class.cpp.o: CMakeFiles/C_learnning.dir/flags.make
-CMakeFiles/C_learnning.dir/include/FX_class.cpp.o: ../include/FX_class.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C_learnning.dir/include/FX_class.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_learnning.dir/include/FX_class.cpp.o -c /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.cpp
-
-CMakeFiles/C_learnning.dir/include/FX_class.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_learnning.dir/include/FX_class.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.cpp > CMakeFiles/C_learnning.dir/include/FX_class.cpp.i
-
-CMakeFiles/C_learnning.dir/include/FX_class.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_learnning.dir/include/FX_class.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/include/FX_class.cpp -o CMakeFiles/C_learnning.dir/include/FX_class.cpp.s
-
 # Object files for target C_learnning
 C_learnning_OBJECTS = \
 "CMakeFiles/C_learnning.dir/main.cpp.o" \
+"CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.o" \
+"CMakeFiles/C_learnning.dir/include/FX_class.cpp.o" \
 "CMakeFiles/C_learnning.dir/include/class1.cpp.o" \
-"CMakeFiles/C_learnning.dir/include/class2.cpp.o" \
-"CMakeFiles/C_learnning.dir/include/FX_class.cpp.o"
+"CMakeFiles/C_learnning.dir/include/class2.cpp.o"
 
 # External object files for target C_learnning
 C_learnning_EXTERNAL_OBJECTS =
 
 C_learnning: CMakeFiles/C_learnning.dir/main.cpp.o
+C_learnning: CMakeFiles/C_learnning.dir/include/CommenFunction.cpp.o
+C_learnning: CMakeFiles/C_learnning.dir/include/FX_class.cpp.o
 C_learnning: CMakeFiles/C_learnning.dir/include/class1.cpp.o
 C_learnning: CMakeFiles/C_learnning.dir/include/class2.cpp.o
-C_learnning: CMakeFiles/C_learnning.dir/include/FX_class.cpp.o
 C_learnning: CMakeFiles/C_learnning.dir/build.make
 C_learnning: CMakeFiles/C_learnning.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C_learnning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/houyixuan/Documents/200-编程/132.6代码/C_Learn/C_learnning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable C_learnning"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_learnning.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

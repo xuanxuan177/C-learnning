@@ -1,7 +1,11 @@
 //
 // Created by 侯轶瑄 on 2021/12/3.
-//
-
+// 功能：
+    //1。打印二维数组
+    // 2。二维数组转置
+    // 3。获取指定纬度的随机二维数组
+    // 4。获取随机一维数组
+    // 5。获取随机数
 #ifndef C_LEARNNING_CLASS1_H
 #define C_LEARNNING_CLASS1_H
 #include <iostream>

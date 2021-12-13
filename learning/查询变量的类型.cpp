@@ -8,7 +8,7 @@ int main()
 {
     int a;
     char ch;
-    char name[20];
+    char name[22];
     string str;
     double b;
     long c;
